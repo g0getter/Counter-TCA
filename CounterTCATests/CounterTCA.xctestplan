@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "E20FE923-AE98-47BD-BEF2-C821101B5D4B",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:CounterTCA.xcodeproj",
+        "identifier" : "362BBB412C9816C80040BBFB",
+        "name" : "CounterTCATests"
+      }
+    }
+  ],
+  "version" : 1
+}
